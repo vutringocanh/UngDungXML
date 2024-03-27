@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<QL_KhachHang>
+  <DS_KhachHang>
+    <Id_TaiKhoan>1</Id_TaiKhoan>
+    <KhachHang MaKH="KH001">
+      <TenKH>Nguyen Van A</TenKH>
+      <DiaChi>123 Main Street, City</DiaChi>
+      <SDT>0123456789</SDT>
+    </KhachHang>
+    <KhachHang MaKH="KH003">
+      <TenKH>Le Van Cá</TenKH>
+      <DiaChi>789 Pine Road, Village</DiaChi>
+      <SDT>0123456789</SDT>
+    </KhachHang>
+    <KhachHang MaKH="mk04">
+      <TenKH>hải</TenKH>
+      <DiaChi>hai dương</DiaChi>
+      <SDT>05i6956i</SDT>
+    </KhachHang>
+    <KhachHang MaKH="KH05">
+      <TenKH>Nông Hữu Nam</TenKH>
+      <DiaChi>Bắc Giang</DiaChi>
+      <SDT>0866759322</SDT>
+    </KhachHang>
+    <KhachHang MaKH="KH5">
+      <TenKH>Nông Huu Nam</TenKH>
+      <DiaChi>BG</DiaChi>
+      <SDT>216554465</SDT>
+    </KhachHang>
+  </DS_KhachHang>
+  <DS_KhachHang>
+    <Id_TaiKhoan>3</Id_TaiKhoan>
+    <KhachHang MaKH="KH001">
+      <TenKH>Nguyen Van A</TenKH>
+      <DiaChi>123 Main Street, City</DiaChi>
+      <SDT>0123456789</SDT>
+    </KhachHang>
+    <KhachHang MaKH="KH002">
+      <TenKH>Tran Thi B</TenKH>
+      <DiaChi>456 Oak Avenue, Town</DiaChi>
+      <SDT>0987654321</SDT>
+    </KhachHang>
+    <KhachHang MaKH="KH004">
+      <TenKH>Nguyen Van B</TenKH>
+      <DiaChi>123 Main </DiaChi>
+      <SDT>0123456789</SDT>
+    </KhachHang>
+  </DS_KhachHang>
+</QL_KhachHang>

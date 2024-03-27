@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<QL_SanPham>
+  <DS_SanPham>
+    <Id_TaiKhoan>1</Id_TaiKhoan>
+    <SanPham MaSP="SP001">
+      <TenSP>Điện thoại di </TenSP>
+      <Gia>5000000</Gia>
+      <SoLuongTon>50</SoLuongTon>
+      <NgaySX>2023-01-15</NgaySX>
+      <HanSD>2025-01-15</HanSD>
+    </SanPham>
+    <SanPham MaSP="SP002">
+      <TenSP>Laptop</TenSP>
+      <Gia>15000000</Gia>
+      <SoLuongTon>20</SoLuongTon>
+      <NgaySX>2022-09-20</NgaySX>
+      <HanSD>2026-09-20</HanSD>
+    </SanPham>
+    <SanPham MaSP="SP3">
+      <TenSP>RamLapTop</TenSP>
+      <Gia>4000000</Gia>
+      <SoLuongTon>50</SoLuongTon>
+      <NgaySX>2023-01-15</NgaySX>
+      <HanSD>2025-01-15</HanSD>
+    </SanPham>
+    <SanPham MaSP="SP4">
+      <TenSP>Ổ cứng</TenSP>
+      <Gia>1000000</Gia>
+      <SoLuongTon>50</SoLuongTon>
+      <NgaySX>2023-01-15</NgaySX>
+      <HanSD>2025-01-15</HanSD>
+    </SanPham>
+    <SanPham MaSP="SP5">
+      <TenSP>Vỏ Case</TenSP>
+      <Gia>4020000</Gia>
+      <SoLuongTon>50</SoLuongTon>
+      <NgaySX>2023-01-15</NgaySX>
+      <HanSD>2025-01-15</HanSD>
+    </SanPham>
+    <SanPham MaSP="SP6">
+      <TenSP>Chuột gaming</TenSP>
+      <Gia>4020000</Gia>
+      <SoLuongTon>30</SoLuongTon>
+      <NgaySX>2023-01-15</NgaySX>
+      <HanSD>2025-01-15</HanSD>
+    </SanPham>
+    <SanPham MaSP="SP7">
+      <TenSP>Bàn Phím</TenSP>
+      <Gia>2020000</Gia>
+      <SoLuongTon>10</SoLuongTon>
+      <NgaySX>2023-01-15</NgaySX>
+      <HanSD>2025-01-15</HanSD>
+    </SanPham>
+  </DS_SanPham>
+  <DS_SanPham>
+    <Id_TaiKhoan>3</Id_TaiKhoan>
+    <SanPham MaSP="SP001">
+      <TenSP>Điện</TenSP>
+      <Gia>5000000</Gia>
+      <SoLuongTon>50</SoLuongTon>
+      <NgaySX>2023-01-15</NgaySX>
+      <HanSD>2025-01-15</HanSD>
+    </SanPham>
+    <SanPham MaSP="SP002">
+      <TenSP>Laptop</TenSP>
+      <Gia>15000000</Gia>
+      <SoLuongTon>20</SoLuongTon>
+      <NgaySX>2022-09-20</NgaySX>
+      <HanSD>2026-09-20</HanSD>
+    </SanPham>
+    <SanPham MaSP="SP003">
+      <TenSP>Máy ảnh</TenSP>
+      <Gia>8000000</Gia>
+      <SoLuongTon>30</SoLuongTon>
+      <NgaySX>2023-05-10</NgaySX>
+      <HanSD>2027-05-10</HanSD>
+    </SanPham>
+  </DS_SanPham>
+</QL_SanPham>

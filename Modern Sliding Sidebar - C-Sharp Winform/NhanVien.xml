@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<QL_NhanVien>
+  <DS_NhanVien>
+    <Id_TaiKhoan>1</Id_TaiKhoan>
+    <NhanVien MaNV="NV001">
+      <TenNV>Tran Van X</TenNV>
+      <ChucVu>Quan ly</ChucVu>
+      <SDT>0123456789</SDT>
+      <DiaChi>456 Elm Street, City</DiaChi>
+    </NhanVien>
+    <NhanVien MaNV="NV002">
+      <TenNV>Nguyen Thi Y</TenNV>
+      <ChucVu>Nhan vien</ChucVu>
+      <SDT>0987654321</SDT>
+      <DiaChi>789 Maple Avenue, Town</DiaChi>
+    </NhanVien>
+  </DS_NhanVien>
+  <DS_NhanVien>
+    <Id_TaiKhoan>3</Id_TaiKhoan>
+    <NhanVien MaNV="NV003">
+      <TenNV>Nong Huu Nam</TenNV>
+      <ChucVu>Nhan vien</ChucVu>
+      <SDT>0123456789</SDT>
+      <DiaChi>123 Oak Road, Village</DiaChi>
+    </NhanVien>
+    <NhanVien MaNV="NV003">
+      <TenNV>Nguyen Thanh Long</TenNV>
+      <ChucVu>Nhan vien</ChucVu>
+      <SDT>0123456789</SDT>
+      <DiaChi>123 Oak Road, Village</DiaChi>
+    </NhanVien>
+    <NhanVien MaNV="NV004">
+      <TenNV>Nong Huu Nam</TenNV>
+      <ChucVu>Nhan vien</ChucVu>
+      <SDT>0123456789</SDT>
+      <DiaChi>123 Oak Road, Village</DiaChi>
+    </NhanVien>
+    <NhanVien MaNV="NV005">
+      <TenNV>Nguyen Thanh Long</TenNV>
+      <ChucVu>Nhan vien</ChucVu>
+      <SDT>0123456789</SDT>
+      <DiaChi>123 Oak Road, Village</DiaChi>
+    </NhanVien>
+  </DS_NhanVien>
+</QL_NhanVien>
